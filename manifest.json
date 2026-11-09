@@ -1,0 +1,9 @@
+{
+    "name": "BalrondMossRoofFix",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Fixes Balrond Constructions moss/bush roofs (and other Balrond foliage) rendering as solid square leaf cards.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2360"
+    ]
+}
